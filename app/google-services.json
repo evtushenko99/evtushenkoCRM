@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079606042990",
+    "project_id": "evtushenkocrm",
+    "storage_bucket": "evtushenkocrm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079606042990:android:6c079ea6508b5b2e29e17f",
+        "android_client_info": {
+          "package_name": "com.evtushenko.crm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHF6yLJZLVsOEEq1gBsMRvy58_DAENCs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
